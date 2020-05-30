@@ -19,7 +19,7 @@
 }
 
  body{
-  background-image: url("hero_1.jpg");
+  background-image: url("/hero_1.jpg");
   background-repeat: none;
   background-size: cover;
   color:#107896;
